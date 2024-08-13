@@ -1,12 +1,9 @@
 
-<table style="border: none;">
-  <tr>
-    <td><img width="64" src="https://avatars.githubusercontent.com/u/160722791?v=4" /></td>
-    <td><h2 align="center">Hi 👋, I'm Nguyen Thanh Dai</h2></td>
-    <td><img width="64" src="https://cdn-icons-png.flaticon.com/512/6211/6211662.png" /></td>
-  </tr>
-</table>
-
+<div style="display: flex; align-items: center; justify-content: space-between;">
+    <img width="64" src="https://avatars.githubusercontent.com/u/160722791?v=4" />
+    <h2 style="flex-grow: 1; text-align: center;">Hi 👋, I'm Nguyen Thanh Dai</h2>
+    <img width="64" src="https://cdn-icons-png.flaticon.com/512/6211/6211662.png" />
+</div>
 
 <div align="center">
   <h3>Web Developer</h3>
