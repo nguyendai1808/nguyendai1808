@@ -1,17 +1,5 @@
 
-<table width="100%">
-  <tr>
-    <td align="left">
-      <img width="64" src="https://avatars.githubusercontent.com/u/160722791?v=4" />
-    </td>
-    <td align="center">
-      <h2>Hi 👋, I'm Nguyen Thanh Dai</h2>
-    </td>
-    <td align="right">
-      <img width="64" src="https://cdn-icons-png.flaticon.com/512/6211/6211662.png" />
-    </td>
-  </tr>
-</table>
+<h2 align="center">Hi 👋, I'm Nguyen Thanh Dai</h2>
 
 <div align="center">
   <h3>Web Developer</h3>
