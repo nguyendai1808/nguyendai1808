@@ -1,5 +1,5 @@
 
-<table width="100%">
+<table width="100%" style="margin: 0; border: none;">
   <tr>
     <td align="left">
       <img width="64" src="https://avatars.githubusercontent.com/u/160722791?v=4" />
