@@ -49,11 +49,10 @@
 
 <table style="width:100%;">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyendai1808&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20programming%20languages" alt="nguyendai1808" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=nguyendai1808&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="nguyendai1808" width="100%"/>
+    <td width="55%">     
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyendai1808&bg_color=FFFFFF00&text_color=179fa3&layout=donut&hide=CSS&langs_count=10&custom_title=Top%20programming%20languages" alt="nguyendai1808" width="100%"/>
     </td>
-    <td>
+    <td width="45%">
       <p align="center"> 
         <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="dev" width="100%"/>
       </p>
